@@ -5,7 +5,7 @@
   
   <br />
 
-  <a href="https://uttam102.github.io/uttamkalsariya.github.io/">
+  <a href="https://uttam-kalsariya.github.io/uttamkalsariya.github.io/">
     <img src="https://img.shields.io/badge/View_Live_Demo-Website-blue?style=for-the-badge&logo=googlechrome" alt="Live" />
   </a>
   <a href="https://www.linkedin.com/in/uttam-kalsariya/">
@@ -67,5 +67,5 @@ Highly motivated computer science student seeking internship opportunities to en
 
 <div align="center">
   <p><i>Building meaningful digital experiences.</i></p>
-  <p>⚡ Designed & Developed by <a href="https://github.com/uttam102">Uttam Kalsariya</a> ⚡</p>
+  <p>⚡ Designed & Developed by <a href="https://github.com/uttam-kalsariya">Uttam Kalsariya</a> ⚡</p>
 </div>
